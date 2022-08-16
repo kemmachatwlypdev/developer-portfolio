@@ -1,8 +1,8 @@
 import emoji from "react-easy-emoji";
 
 export const greetings = {
-	name: "Hanzla Tauqeer",
-	title: "Hi all, I'm Hanzla",
+	name: "Deankayhandev",
+	title: "Hi all, I'm Kemmachat",
 	description:
 		"I'm passionate Full Stack web developer having an experience of web applications with Python, Django, React.js, Next.js and Blockchain development on Ethereum, Solidity, Web3.js, Moralis, and Brownie Framework.",
 	resumeLink:
@@ -10,17 +10,17 @@ export const greetings = {
 };
 
 export const openSource = {
-	githubUserName: "1hanzla100",
+	githubUserName: "kemmachatwlypdev",
 };
 
 export const contact = {};
 
 export const socialLinks = {
-	facebook: "https://www.facebook.com/1hanzla100",
-	instagram: "https://www.instagram.com/__hanzla100",
-	twitter: "https://twitter.com/1hanzla100",
-	github: "https://github.com/1hanzla100",
-	linkedin: "https://www.linkedin.com/in/1hanzla100/",
+	facebook: "https://www.facebook.com/kemmachatwlypdev",
+	instagram: "https://www.instagram.com/deankemmachat",
+	twitter: "https://twitter.com/d34neth",
+	github: "https://github.com/kemmachatwlypdev",
+	linkedin: "https://www.linkedin.com/in/kemmachatwlyp",
 };
 
 export const skillsSection = {
@@ -189,7 +189,7 @@ export const skillsSection = {
 export const SkillBars = [
 	{
 		Stack: "Frontend/Design", //Insert stack or technology you have experience in
-		progressPercentage: "90", //Insert relative proficiency in percentage
+		progressPercentage: "60", //Insert relative proficiency in percentage
 	},
 	{
 		Stack: "Backend",
